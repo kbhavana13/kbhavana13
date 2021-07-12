@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kbhavana13
+- 👋 Hi, I’m @purplegirl13
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning django, reactjs, javascript.
 
